@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+First Name: <input name="fname" type="text" value="michael"><br>
+Last Name: <input name="fname" type="text" value="jackson"><br>
+			<button name="fname" value="hello"> click</button>
+
+<p>Click the button to get the tag name of the first element in the document that has a name attribute with the value "fname".</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  var x = document.getElementsByName("fname")[2].tagName;
+  document.getElementById("demo").innerHTML = x;
+}
+</script>
+
+</body>
+</html>

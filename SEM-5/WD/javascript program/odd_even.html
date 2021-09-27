@@ -1,0 +1,33 @@
+<html>
+<head>
+<script type="text/javascript">
+function isNumberKey(evt)
+{
+var charCode = event.keyCode
+if (charCode < 48 || charCode > 57)
+return false;
+return true;
+}
+function fun()
+{
+no=Number(document.getElementById("t1").value);
+if(no%2==0)
+{
+document.getElementById("ans").innerHTML=no + " is EVEN number";
+}
+else
+
+{
+document.getElementById("ans").innerHTML=no + " is ODD number";
+}
+}
+</script>
+</head>
+<body>
+Enter any number :
+<input type="text" id="t1" onkeypress="return isNumberKey(event)">
+<input type="button" onclick="fun()" value="check" >
+<br/>
+<p id="ans"></p>
+</body>
+</html>
