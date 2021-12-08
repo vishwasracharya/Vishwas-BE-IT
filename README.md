@@ -1,6 +1,9 @@
 # Vishwas-BE-IT
 I made this repo, just so that i can have a backup of it and share easily.
 
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/vishwasracharya/Vishwas-BE-IT?color=red">
+
+
 # Hi, I'm Vishwas Acharya! 👋
 
 I'm a about to complete my Bachelor's of I.T Engineering, and also as a side hustule make You-Tube videos, Podcast, Blogs and more...
