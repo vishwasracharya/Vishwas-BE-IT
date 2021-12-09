@@ -1,6 +1,7 @@
 # Vishwas-BE-IT
 I made this repo, just so that i can have a backup of it and share easily.
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vishwasrachary.visitor-badge)
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/vishwasracharya/Vishwas-BE-IT?color=red">
 
 
