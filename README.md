@@ -7,7 +7,7 @@ I made this repo, just so that i can have a backup of it and share easily.
 
 # Hi, I'm Vishwas Acharya! 👋
 
-I'm a about to complete my Bachelor's of I.T Engineering, and also as a side hustule make You-Tube videos, Podcast, Blogs and more...
+I'm a about to complete my Bachelor's of I.T Engineering, and also as a side hustule I make You-Tube videos, Podcast, Blogs and more...
 
 ### Connect with me
   <a href="https://twitter.com/vishwasracharya">
