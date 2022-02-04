@@ -3,7 +3,7 @@ It has all the Notes, Question Papers & Answers, Books and more...
 
 ### SUBJECTS 📚
 - [Computer Vision (CV)](#computer-vision-cv-)
-- [Interntwork Security and Web Analytics(ISWA)](#interntwork-security-and-web-analytics-iswa-)
+- [Interntwork Security and Web Analytics (ISWA)](#interntwork-security-and-web-analytics-iswa-)
 - [Internet of Things (IOT)](#internet-of-things-iot-)
 - [Software Project Management (SPM)](#software-project-management-spm-)
 - [Agile Development and UI/UX design (UI/UX)](#agile-development-and-uiux-design-uiux-)
