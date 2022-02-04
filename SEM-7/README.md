@@ -2,12 +2,12 @@
 It has all the Notes, Question Papers & Answers, Books and more...
 
 ### SUBJECTS 📚
-- [Computer Vision (CV)](https://github.com/vishwasracharya/Vishwas-BE-IT/edit/main/SEM-7/README.md#computer-vision-cv)
-- [Interntwork Security and Web Analytics(ISWA)](https://github.com/vishwasracharya/Vishwas-BE-IT/edit/main/SEM-7/README.md#interntwork-security-and-web-analytics-iswa)
-- [Internet of Things (IOT)](https://github.com/vishwasracharya/Vishwas-BE-IT/edit/main/SEM-7/README.md#internet-of-things-iot)
-- [Software Project Management (SPM)](https://github.com/vishwasracharya/Vishwas-BE-IT/edit/main/SEM-7/README.md#software-project-management-spm)
-- [Agile Development and UI/UX design (UI/UX)](https://github.com/vishwasracharya/Vishwas-BE-IT/edit/main/SEM-7/README.md#agile-development-and-uiux-design-uiux)
-- [Wireless Communication (WC)](https://github.com/vishwasracharya/Vishwas-BE-IT/edit/main/SEM-7/README.md#wireless-communication-wc)
+- [Computer Vision (CV)](#computer-vision-cv-)
+- [Interntwork Security and Web Analytics(ISWA)](#interntwork-security-and-web-analytics-iswa-)
+- [Internet of Things (IOT)](#internet-of-things-iot-)
+- [Software Project Management (SPM)](#software-project-management-spm-)
+- [Agile Development and UI/UX design (UI/UX)](#agile-development-and-uiux-design-uiux-)
+- [Wireless Communication (WC)](#wireless-communication-wc-)
 
 ## Computer Vision (CV) 💻
 - [Technical Publications](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-7/CV/TechnicalPublication)
@@ -32,9 +32,18 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Books](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-7/INSWA/Books)
 
 ## Software Project Management (SPM) 📑
-
+- [Technical Publications](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-7/SPM/TechnicalPublication)
+- [GTU Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-7/SPM/3171609%20-%20SPM.pdf)
+- [Assignments](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-7/SPM/Assignments)
 
 ## Agile Development and UI/UX design (UI/UX) 🖼
+- [Technical Publications](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-7/UI-UX/TechnicalPublication)
+- [GTU Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-7/UI-UX/3171610%20-%20UI-UX.pdf)
+- [Assignments](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-7/UI-UX/Assignments)
+- [Books](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-7/UI-UX/Books)
 
-
-## Wireless Communication (WC)📲
+## Wireless Communication (WC) 📲
+- [Technical Publications](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-7/WC/TechnicalPublication)
+- [GTU Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-7/WC/3171608%20-%20WC.pdf)
+- [Assignments](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-7/WC/Assignments)
+- [Papers](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-7/WC/Papers)
