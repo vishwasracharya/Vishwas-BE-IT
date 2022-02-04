@@ -4,6 +4,7 @@ I made this repo, just so that i can have a backup of all the materials, notes o
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vishwasrachary.visitor-badge)
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/vishwasracharya/Vishwas-BE-IT?color=red">
 
+> It is just for sharing purpose, Not to make a inappropriate use of it, hence it is just for the help of the students
 
 # Hi, I'm Vishwas Acharya! 👋
 
