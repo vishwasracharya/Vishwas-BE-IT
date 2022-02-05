@@ -15,6 +15,7 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Assignments](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-7/CV/Assignments)
 - [Practical](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-7/CV/Practical)
 - [Books](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-7/CV/Books)
+  - [Algorithms and Applications by R. Szeliski, Springer, 2011](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-7/CV/Books/Computer%20Vision-%20Algorithms%20and%20Applications%2C%20R.%20Szeliski%2C%20Springer%2C%202011.pdf)
 
 
 ## Interntwork Security and Web Analytics (ISWA) 🌐
