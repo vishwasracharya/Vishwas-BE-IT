@@ -8,3 +8,15 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Data Wearhouse & Data Mining (DWDM)]()
 - [Moblie Application Development (MAD)]()
 - [Software Engineering (SE)]()
+
+## Artificial Intelligence (AI)
+
+## Cryptography & Network Security (CNS)
+
+## Contributor Personality Development Program (CPDP)
+
+## Data Wearhouse & Data Mining (DWDM)
+
+## Moblie Application Development (MAD)
+
+## Software Engineering (SE)
