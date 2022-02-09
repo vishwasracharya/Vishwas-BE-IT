@@ -10,6 +10,8 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Software Engineering (SE)](#software-engineering-se)
 
 ## Artificial Intelligence (AI)
+- [Assignments](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-6/AI/AI_Assignments)
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-6/AI/AI%20-%203161608.pdf)
 
 ## Cryptography & Network Security (CNS)
 
