@@ -14,6 +14,7 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-6/AI/AI%20-%203161608.pdf)
 
 ## Cryptography & Network Security (CNS)
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-6/CNS/CNS%20-%203161606.pdf)
 
 ## Contributor Personality Development Program (CPDP)
 
