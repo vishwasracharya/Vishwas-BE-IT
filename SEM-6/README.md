@@ -18,6 +18,7 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-6/CNS/CNS%20-%203161606.pdf)
 
 ## Contributor Personality Development Program (CPDP)
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-6/CPDP/CPDP%20-%203160002.pdf)
 
 ## Data Wearhouse & Data Mining (DWDM)
 
