@@ -24,5 +24,6 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-6/DWDM/DWDM%20-%203161610.pdf)
 
 ## Moblie Application Development (MAD)
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-6/MAD/MAD%20-%203161612.pdf)
 
 ## Software Engineering (SE)
