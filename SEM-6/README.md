@@ -27,3 +27,4 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-6/MAD/MAD%20-%203161612.pdf)
 
 ## Software Engineering (SE)
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-6/SE/SE%20-%203161605.pdf)
