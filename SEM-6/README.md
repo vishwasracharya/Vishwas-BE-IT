@@ -21,6 +21,7 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-6/CPDP/CPDP%20-%203160002.pdf)
 
 ## Data Wearhouse & Data Mining (DWDM)
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-6/DWDM/DWDM%20-%203161610.pdf)
 
 ## Moblie Application Development (MAD)
 
