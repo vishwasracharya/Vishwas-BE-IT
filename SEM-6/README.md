@@ -28,3 +28,4 @@ It has all the Notes, Question Papers & Answers, Books and more...
 
 ## Software Engineering (SE)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-6/SE/SE%20-%203161605.pdf)
+- [Books](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-6/SE/Books)
