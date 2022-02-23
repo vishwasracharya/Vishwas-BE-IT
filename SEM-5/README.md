@@ -12,6 +12,7 @@ It has all the Notes, Question Papers & Answers, Books and more...
 ## Analysis & Design of Algorithms
 - [Assignment_Q&A](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/ADA/ADA_Assignment_Q%26A)
 - [Internal Exam](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/ADA/ADA_Internal_Exam)
+- [Practical](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/ADA/ADA_Practical)
 ## Computer Networks
 ## Contributer Personality Development Program
 ## Cyber Security
