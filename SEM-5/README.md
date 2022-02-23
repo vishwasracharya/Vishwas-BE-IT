@@ -10,6 +10,7 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Web Development](#web-development)
 
 ## Analysis & Design of Algorithms
+- [Assignment_Q&A](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/ADA/ADA_Assignment_Q%26A)
 ## Computer Networks
 ## Contributer Personality Development Program
 ## Cyber Security
