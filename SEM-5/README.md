@@ -13,6 +13,8 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Assignment_Q&A](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/ADA/ADA_Assignment_Q%26A)
 - [Internal Exam](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/ADA/ADA_Internal_Exam)
 - [Practical](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/ADA/ADA_Practical)
+- [Darshan](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/ADA/Darshan)
+- [Papers](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/ADA/Papers)
 ## Computer Networks
 ## Contributer Personality Development Program
 ## Cyber Security
