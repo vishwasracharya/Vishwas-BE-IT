@@ -15,7 +15,9 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Practical](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/ADA/ADA_Practical)
 - [Darshan](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/ADA/Darshan)
 - [Papers](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/ADA/Papers)
+
 ## Computer Networks
+- [Assignment Q&A](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/CN/CN_Assignment_Q%26A)
 ## Contributer Personality Development Program
 ## Cyber Security
 ## Professional Ethics
