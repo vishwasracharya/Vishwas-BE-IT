@@ -18,6 +18,7 @@ It has all the Notes, Question Papers & Answers, Books and more...
 
 ## Computer Networks
 - [Assignment Q&A](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/CN/CN_Assignment_Q%26A)
+- [Internal Exam](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/CN/CN_Internal_Exam)
 ## Contributer Personality Development Program
 ## Cyber Security
 ## Professional Ethics
