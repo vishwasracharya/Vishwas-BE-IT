@@ -21,6 +21,7 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Internal Exam](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/CN/CN_Internal_Exam)
 - [Practical](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/CN/practical)
 - [Darshan](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/CN/Darshan)
+- [Papers](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/CN/Papers)
 ## Contributer Personality Development Program
 ## Cyber Security
 ## Professional Ethics
