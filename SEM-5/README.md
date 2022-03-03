@@ -23,7 +23,9 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Darshan](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/CN/Darshan)
 - [Papers](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/CN/Papers)
 - [Notes](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/CN/notes)
+
 ## Contributer Personality Development Program
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-5/CPDP/3150004%20-%20Contributer%20Personality%20Development%20Program.pdf)
 ## Cyber Security
 ## Professional Ethics
 ## Web Development
