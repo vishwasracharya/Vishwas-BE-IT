@@ -30,5 +30,6 @@ It has all the Notes, Question Papers & Answers, Books and more...
 ## Cyber Security
 - [Assignment Q&A](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/CS/CS_Assignment_Q%26A)
 - [Internal Exam](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/CS/CS_Internal_Exam)
+- [Practical](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/CS/CS_practical)
 ## Professional Ethics
 ## Web Development
