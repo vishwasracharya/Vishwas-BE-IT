@@ -33,5 +33,7 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Practical](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/CS/CS_practical)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-5/CS/3150714%20-%20Cyber%20Security.pdf)
 - [Papers](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/CS/Papers)
+
 ## Professional Ethics
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-5/PE/3150709%20-%20Professional%20Ethics.pdf)
 ## Web Development
