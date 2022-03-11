@@ -8,7 +8,7 @@ I made this repo, just so that i can have a backup of all the materials, notes o
 
 # Hi, I'm Vishwas Acharya! 👋
 
-I'm a about to complete my Bachelor's of I.T Engineering, and also as a side hustule I make You-Tube videos, Podcast, Blogs and more...
+I'm a about to complete my Bachelor's of I.T Engineering, and also as a side hustule I make ![You-Tube](https://youtube.com/c/VishwasAcharya) videos, ![Podcast](https://open.spotify.com/show/7DQt4atsshjsEG0Am49lHr?si=ii3DcV4JQT2CxOJWWidZKg&utm_source=copy-link), ![Blogs](https://vishwasacharya.blogspot.com) and more...
 
 ### Connect with me
   <a href="https://twitter.com/vishwasracharya">
