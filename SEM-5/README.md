@@ -39,5 +39,6 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-5/PE/3150709%20-%20Professional%20Ethics.pdf)
 
 ## Web Development
+- [Assignment Q&A](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/WD/WD_Assignment_Q%26A)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-5/WD/3151606%20-%20Web%20Development.pdf)
 - [Papers](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/WD/Papers)
