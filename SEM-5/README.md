@@ -41,5 +41,6 @@ It has all the Notes, Question Papers & Answers, Books and more...
 ## Web Development
 - [Assignment Q&A](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/WD/WD_Assignment_Q%26A)
 - [Internal Exam](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/WD/WD_Internal_Exam)
+- [Practicals](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/WD/WD_Practical)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-5/WD/3151606%20-%20Web%20Development.pdf)
 - [Papers](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-5/WD/Papers)
