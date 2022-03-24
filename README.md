@@ -1,5 +1,6 @@
 # Vishwas-BE-IT
 I made this repo, just so that i can have a backup of all the materials, notes of mine and share easily. Hence this repo has all the documents related to my BE-IT journey like Books, Notes, Assignments, Test Papers, Other Materials.
+To learn/watch directly through website, here's the link: https://623c9cc24fc2f1009f08737b--zesty-biscuit-790f4f.netlify.app/
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vishwasrachary.visitor-badge)
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/vishwasracharya/Vishwas-BE-IT?color=red">
