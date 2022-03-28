@@ -8,8 +8,8 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Operating System (OS)](#operating-system-os)
 - [Principles of Economics & Management (PEM)](#principles-of-economics--management-pem)
 
-### Computer Organization & Architecture (COA)
-### Discrete Maths
-### Java
-### Operating System (OS)
-### Principles of Economics & Management (PEM)
+## Computer Organization & Architecture (COA)
+## Discrete Maths
+## Java
+## Operating System (OS)
+## Principles of Economics & Management (PEM)
