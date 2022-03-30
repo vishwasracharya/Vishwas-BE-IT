@@ -9,6 +9,7 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Principles of Economics & Management (PEM)](#principles-of-economics--management-pem)
 
 ## Computer Organization & Architecture (COA)
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-4/COA/3140707%20COA.pdf)
 ## Discrete Maths
 ## Java
 ## Operating System (OS)
