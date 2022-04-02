@@ -11,6 +11,7 @@ It has all the Notes, Question Papers & Answers, Books and more...
 ## Computer Organization & Architecture (COA)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-4/COA/3140707%20COA.pdf)
 - [Practical](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-4/COA/COA%20Practical)
+- [Registers](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-4/COA/registers)
 ## Discrete Maths
 ## Java
 ## Operating System (OS)
