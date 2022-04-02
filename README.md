@@ -4,6 +4,7 @@ To learn/watch directly through website, here's the link: https://623c9cc24fc2f1
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=vishwasrachary.visitor-badge)
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/vishwasracharya/Vishwas-BE-IT?color=red">
+[![Netlify Status](https://api.netlify.com/api/v1/badges/804e5410-d979-4846-bd0f-a98dd171d9ff/deploy-status)](https://app.netlify.com/sites/zesty-biscuit-790f4f/deploys)
 
 > It is just for sharing purpose, Not to make a inappropriate use of it, hence it is just for the help of the students
 
