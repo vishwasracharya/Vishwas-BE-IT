@@ -13,7 +13,10 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-4/COA/3140707%20COA.pdf)
 - [Practical](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-4/COA/COA%20Practical)
 - [Registers](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-4/COA/registers)
+
 ## Discrete Maths
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-4/Discrete%20Maths/3140708%20(Discrete%20Maths).pdf)
+
 ## Java
 ## Operating System (OS)
 ## Principles of Economics & Management (PEM)
