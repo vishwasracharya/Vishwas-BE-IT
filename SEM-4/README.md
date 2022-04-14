@@ -18,7 +18,7 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-4/Discrete%20Maths/3140708%20(Discrete%20Maths).pdf)
 
 ## Java
--[Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-4/Java/3140705%20OOP-I.pdf)
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-4/Java/3140705%20OOP-I.pdf)
 
 ## Operating System (OS)
 ## Principles of Economics & Management (PEM)
