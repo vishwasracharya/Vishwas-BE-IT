@@ -19,6 +19,7 @@ It has all the Notes, Question Papers & Answers, Books and more...
 
 ## Java
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-4/Java/3140705%20OOP-I.pdf)
+- [Practical](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-4/Java/Practical)
 
 ## Operating System (OS)
 ## Principles of Economics & Management (PEM)
