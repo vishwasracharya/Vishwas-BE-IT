@@ -25,4 +25,5 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Assignments](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-4/Java/Assignments)
 
 ## Operating System (OS)
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-4/OS/3141601%20OS.pdf)
 ## Principles of Economics & Management (PEM)
