@@ -28,4 +28,6 @@ It has all the Notes, Question Papers & Answers, Books and more...
 - [Papers](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-4/OS/GTU%20PAPERS)
 - [Darshan](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-4/OS/Darshan%20Material)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-4/OS/3141601%20OS.pdf)
+
 ## Principles of Economics & Management (PEM)
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-4/PEM/3140709%20(Economics%20%26%20Management).pdf)
