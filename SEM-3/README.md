@@ -2,4 +2,4 @@
 It has all the Notes, Question Papers & Answers, Books and more.
 
 ### SUBJECTS 📚
-## Computer Organization & Architecture (COA)
+## Database Management System (DBMS)
