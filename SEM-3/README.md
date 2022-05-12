@@ -5,3 +5,4 @@ It has all the Notes, Question Papers & Answers, Books and more.
 ## Database Management System (DBMS)
 ## Digital Fundamental (DF)
 ## Data Structures (DS)
+## Effective Technical Communication (ETC)
