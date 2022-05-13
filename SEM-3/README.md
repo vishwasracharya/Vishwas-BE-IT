@@ -6,3 +6,4 @@ It has all the Notes, Question Papers & Answers, Books and more.
 ## Digital Fundamental (DF)
 ## Data Structures (DS)
 ## Effective Technical Communication (ETC)
+## Indian Constitution (IC)
