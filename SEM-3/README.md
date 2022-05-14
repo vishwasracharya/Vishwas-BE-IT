@@ -7,3 +7,4 @@ It has all the Notes, Question Papers & Answers, Books and more.
 ## Data Structures (DS)
 ## Effective Technical Communication (ETC)
 ## Indian Constitution (IC)
+## Probability And Statistics (PS)
