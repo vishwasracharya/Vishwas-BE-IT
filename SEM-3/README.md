@@ -8,3 +8,4 @@ It has all the Notes, Question Papers & Answers, Books and more.
 ## Effective Technical Communication (ETC)
 ## Indian Constitution (IC)
 ## Probability And Statistics (PS)
+## Design Engineering (DE)
