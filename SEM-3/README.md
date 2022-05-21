@@ -3,6 +3,7 @@ It has all the Notes, Question Papers & Answers, Books and more.
 
 ### SUBJECTS 📚
 ## Database Management System (DBMS)
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/DBMS/3130703%20-%20DBMS.pdf)
 ## Digital Fundamental (DF)
 ## Data Structures (DS)
 ## Effective Technical Communication (ETC)
