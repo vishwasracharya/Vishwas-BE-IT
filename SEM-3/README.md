@@ -5,6 +5,7 @@ It has all the Notes, Question Papers & Answers, Books and more.
 ## Database Management System (DBMS)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/DBMS/3130703%20-%20DBMS.pdf)
 ## Digital Fundamental (DF)
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/DF/3130704%20-%20DF.pdf)
 ## Data Structures (DS)
 ## Effective Technical Communication (ETC)
 ## Indian Constitution (IC)
