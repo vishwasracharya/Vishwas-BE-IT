@@ -7,6 +7,7 @@ It has all the Notes, Question Papers & Answers, Books and more.
 ## Digital Fundamental (DF)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/DF/3130704%20-%20DF.pdf)
 ## Data Structures (DS)
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/DS/3130702%20-%20DS.pdf)
 ## Effective Technical Communication (ETC)
 ## Indian Constitution (IC)
 ## Probability And Statistics (PS)
