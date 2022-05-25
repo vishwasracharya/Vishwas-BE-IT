@@ -11,6 +11,7 @@ It has all the Notes, Question Papers & Answers, Books and more.
 ## Effective Technical Communication (ETC)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/ETC/3130004%20-%20ETC.pdf)
 ## Indian Constitution (IC)
+- [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/IC/3130007%20-%20IC.pdf)
 ## Probability And Statistics (PS)
 ## Design Engineering (DE)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/3130008%20-%20DE%201A.pdf)
