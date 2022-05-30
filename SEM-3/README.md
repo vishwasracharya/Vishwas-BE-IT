@@ -9,6 +9,7 @@ It has all the Notes, Question Papers & Answers, Books and more.
 ## Data Structures (DS)
 - [Assignments](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-3/DS/Assignments)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/DS/3130702%20-%20DS.pdf)
+- [Notes](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-3/DS/Notes)
 ## Effective Technical Communication (ETC)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/ETC/3130004%20-%20ETC.pdf)
 ## Indian Constitution (IC)
