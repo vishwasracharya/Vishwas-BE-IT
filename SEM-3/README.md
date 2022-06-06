@@ -17,6 +17,7 @@ It has all the Notes, Question Papers & Answers, Books and more.
 - [PPT](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-3/DS/PPT)
 
 ## Effective Technical Communication (ETC)
+- [Assignments](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-3/ETC/Assignments)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/ETC/3130004%20-%20ETC.pdf)
 
 ## Indian Constitution (IC)
