@@ -19,6 +19,7 @@ It has all the Notes, Question Papers & Answers, Books and more.
 ## Effective Technical Communication (ETC)
 - [Assignments](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-3/ETC/Assignments)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/ETC/3130004%20-%20ETC.pdf)
+- [Notes](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/SEM-3/ETC/Books%26Notes)
 
 ## Indian Constitution (IC)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/IC/3130007%20-%20IC.pdf)
