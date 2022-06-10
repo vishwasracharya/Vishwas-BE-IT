@@ -23,6 +23,7 @@ It has all the Notes, Question Papers & Answers, Books and more.
 
 ## Indian Constitution (IC)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/IC/3130007%20-%20IC.pdf)
+- [Book](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/IC/Indian%20Constitution%20technical%20publication%20book.pdf)
 
 ## Probability And Statistics (PS)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/PS/3130006%20-%20PS.pdf)
