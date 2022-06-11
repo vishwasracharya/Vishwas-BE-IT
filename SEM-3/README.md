@@ -7,6 +7,7 @@ It has all the Notes, Question Papers & Answers, Books and more.
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/DBMS/3130703%20-%20DBMS.pdf)
 
 ## Digital Fundamental (DF)
+- [Book | Moriss Mano](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/DF/Digital%20Fundamentals%20by%20MORISS%20MANO.pdf)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/DF/3130704%20-%20DF.pdf)
 
 ## Data Structures (DS)
