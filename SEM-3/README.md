@@ -5,6 +5,7 @@ It has all the Notes, Question Papers & Answers, Books and more.
 
 ## Database Management System (DBMS)
 - [Syllabus](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/DBMS/3130703%20-%20DBMS.pdf)
+- [OOP Data Model](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/DBMS/OBJECT%20ORIENTED%20DATA%20MODEL.pdf)
 
 ## Digital Fundamental (DF)
 - [Book | Moriss Mano](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/SEM-3/DF/Digital%20Fundamentals%20by%20MORISS%20MANO.pdf)
