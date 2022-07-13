@@ -9,4 +9,5 @@ This has all the notes that might or might not be related to the curriculum.
   - [GitHub](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/Handwritten%20DSA/01%20Git%20GitHub%20Notes.pdf.pdf)
   - [Intro to Programming](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/Handwritten%20DSA/02%20Handwritten%20notes%20Introduction%20to%20Programming%20Languages.pdf)
   - [Intro to Java](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/Handwritten%20DSA/04%20Handwritten%20notes%20Introduction%20to%20Java.pdf)
+  - [Lec.5](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/Handwritten%20DSA/05%20Handwritten%20notes%20Lecture%205.pdf)
 - [ITF](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/GENERAL%20NOTES/ITF)
