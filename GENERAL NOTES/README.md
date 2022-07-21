@@ -12,4 +12,5 @@ This has all the notes that might or might not be related to the curriculum.
   - [Lec.5](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/Handwritten%20DSA/05%20Handwritten%20notes%20Lecture%205.pdf)
   - [Switch Case](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/Handwritten%20DSA/06%20Handwritten%20notes%20switch%20cases.pdf)
   - [Functions and Methods](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/Handwritten%20DSA/07%20Handwritten%20notes%20on%20functions%20and%20methods.pdf)
+  - [Arrays & ArrayList](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/Handwritten%20DSA/08%20Handwritten%20notes%20on%20arrays%20and%20arraylist.pdf)
 - [ITF](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/GENERAL%20NOTES/ITF)
