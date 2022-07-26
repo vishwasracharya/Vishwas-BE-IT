@@ -17,4 +17,5 @@ This has all the notes that might or might not be related to the curriculum.
   - [Binary Search](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/Handwritten%20DSA/10%20Handwritten%20notes%20on%20Binary%20Search.pdf)
   - [Bubble Sort](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/Handwritten%20DSA/11%20Handwritten%20notes%20on%20bubble%20sort.pdf.pdf)
   - [Insertion Sort](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/Handwritten%20DSA/12%20Handwritten%20Notes%20on%20Insertion%20Sort.pdf.pdf)
+  - [Selection Sort](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/Handwritten%20DSA/13%20Handwritten%20notes%20on%20Selection%20sort.pdf.pdf)
 - [ITF](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/GENERAL%20NOTES/ITF)
