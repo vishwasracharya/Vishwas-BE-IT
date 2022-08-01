@@ -22,3 +22,4 @@ This has all the notes that might or might not be related to the curriculum.
   - [Strings](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/Handwritten%20DSA/15%20Strings%20in%20detail.pdf)
 - [ITF](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/GENERAL%20NOTES/ITF)
   - [Course Contents](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/00%3DCourse%20Contents.pptx)
+  - [Hardware](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/01%3DWhat%20Is%20Hardware..pptx)
