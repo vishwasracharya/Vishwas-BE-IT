@@ -23,3 +23,4 @@ This has all the notes that might or might not be related to the curriculum.
 - [ITF](https://github.com/vishwasracharya/Vishwas-BE-IT/tree/main/GENERAL%20NOTES/ITF)
   - [Course Contents](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/00%3DCourse%20Contents.pptx)
   - [Hardware](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/01%3DWhat%20Is%20Hardware..pptx)
+  - [Software](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/02%3DWhat%20Is%20Software..pptx)
