@@ -25,3 +25,4 @@ This has all the notes that might or might not be related to the curriculum.
   - [Hardware](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/01%3DWhat%20Is%20Hardware..pptx)
   - [Software](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/02%3DWhat%20Is%20Software..pptx)
   - [Network](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/03%3DWhat%20Is%20Network..pptx)
+  - [CompTIA](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/04%3DWhat%20Is%20CompTIA..pptx)
