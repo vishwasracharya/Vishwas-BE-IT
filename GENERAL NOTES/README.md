@@ -29,3 +29,4 @@ This has all the notes that might or might not be related to the curriculum.
   - [A+](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/05%3DWhat%20Is%20A%2B..pptx)
   - [Difference Between Hardware & A+](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/06%3DDifference%20Between%20Hardware%20%26%20A%2B..pptx)
   - [What is Data & Information](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/07%3DWhat%20Is%20Data%20And%20Information..pptx)
+  - [What is IO and SP Devices](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/08%3DWhat%20Is%20I%20O%20%26%20S%20P%20Devices..pptx)
