@@ -33,3 +33,4 @@ This has all the notes that might or might not be related to the curriculum.
   - [Hardware Components](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/09%3DHardware%20Components..pptx)
   - [Monitor](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/10%3DMonitor..pptx)
   - [Keyboard Mouse](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/11-12%3DKeyboard-Mouse..pptx)
+  - [Cabinet](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/13%3DCabinet..pptx)
