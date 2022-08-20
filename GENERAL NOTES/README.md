@@ -38,3 +38,4 @@ This has all the notes that might or might not be related to the curriculum.
   - [Types Of Memory](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/15%3DTypes%20Of%20Memory..pptx)
   - [Hard Disk](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/16%3DHarddisk..pptx)
   - [Ram](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/17%3DRam..pptx)
+  - [Processor](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/18%3DProcessor..pptx)
