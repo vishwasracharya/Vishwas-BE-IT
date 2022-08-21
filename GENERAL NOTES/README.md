@@ -39,3 +39,4 @@ This has all the notes that might or might not be related to the curriculum.
   - [Hard Disk](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/16%3DHarddisk..pptx)
   - [Ram](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/17%3DRam..pptx)
   - [Processor](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/18%3DProcessor..pptx)
+  - [How To Travell Data](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/19%3DHow%20To%20Travell%20Data..pptx)
