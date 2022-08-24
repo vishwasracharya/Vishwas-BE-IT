@@ -40,3 +40,4 @@ This has all the notes that might or might not be related to the curriculum.
   - [Ram](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/17%3DRam..pptx)
   - [Processor](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/18%3DProcessor..pptx)
   - [How To Travell Data](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/19%3DHow%20To%20Travell%20Data..pptx)
+  - [BIOS & CMOS](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/20%3DBios%20And%20Cmos..pptx)
