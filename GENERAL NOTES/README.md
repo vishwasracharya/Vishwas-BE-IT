@@ -42,3 +42,4 @@ This has all the notes that might or might not be related to the curriculum.
   - [How To Travell Data](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/19%3DHow%20To%20Travell%20Data..pptx)
   - [BIOS & CMOS](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/20%3DBios%20And%20Cmos..pptx)
   - [Motherboard](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/21%3DMotherboard..pptx)
+  - [Modem](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/22%3DModem..pptx)
