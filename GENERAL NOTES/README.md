@@ -43,3 +43,4 @@ This has all the notes that might or might not be related to the curriculum.
   - [BIOS & CMOS](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/20%3DBios%20And%20Cmos..pptx)
   - [Motherboard](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/21%3DMotherboard..pptx)
   - [Modem](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/22%3DModem..pptx)
+  - [CD Drive & CD Writer](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/23%3DCd-Drive%20%26%20Cd-Writter..pptx)
