@@ -44,3 +44,4 @@ This has all the notes that might or might not be related to the curriculum.
   - [Motherboard](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/21%3DMotherboard..pptx)
   - [Modem](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/22%3DModem..pptx)
   - [CD Drive & CD Writer](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/23%3DCd-Drive%20%26%20Cd-Writter..pptx)
+  - [DVD Combo & DVD Writer](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/24%3DDvd-Combo%20%26%20Dvd-Writter..pptx)
