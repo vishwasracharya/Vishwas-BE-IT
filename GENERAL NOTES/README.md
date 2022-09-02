@@ -46,3 +46,4 @@ This has all the notes that might or might not be related to the curriculum.
   - [CD Drive & CD Writer](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/23%3DCd-Drive%20%26%20Cd-Writter..pptx)
   - [DVD Combo & DVD Writer](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/24%3DDvd-Combo%20%26%20Dvd-Writter..pptx)
   - [Printer](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/25%3DPrinter..pptx)
+  - [Busses](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/26%3DBusses..pptx)
