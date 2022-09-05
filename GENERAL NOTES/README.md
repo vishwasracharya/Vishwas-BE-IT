@@ -49,3 +49,4 @@ This has all the notes that might or might not be related to the curriculum.
   - [Busses](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/26%3DBusses..pptx)
   - [Expansion Slots](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/27%3DExpansion%20Slots..pptx)
   - [Floppy Disk](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/28%3DFloppy%20Disk..pptx)
+  - [Trouble Shooting](https://github.com/vishwasracharya/Vishwas-BE-IT/blob/main/GENERAL%20NOTES/ITF/29%3DTrouble%20Shooting..pptx)
