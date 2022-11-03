@@ -10,7 +10,7 @@ To learn/watch directly through website, here's the link: https://623c9cc24fc2f1
 
 # Hi, I'm Vishwas Acharya! 👋
 
-I'm a about to complete my Bachelor's of I.T Engineering, and also as a side hustule I make [You-Tube](https://youtube.com/c/VishwasAcharya) videos, [Podcast](https://open.spotify.com/show/7DQt4atsshjsEG0Am49lHr?si=ii3DcV4JQT2CxOJWWidZKg&utm_source=copy-link), [Blogs](https://vishwasacharya.blogspot.com) and more...
+I'm completed my Bachelor's of I.T Engineering, and also as a side hustule I make [You-Tube](https://youtube.com/c/VishwasAcharya) videos, [Podcast](https://open.spotify.com/show/7DQt4atsshjsEG0Am49lHr?si=ii3DcV4JQT2CxOJWWidZKg&utm_source=copy-link), [Blogs](https://vishwasacharya.blogspot.com) and more...
 
 ### Connect with me
   <a href="https://twitter.com/vishwasracharya">
